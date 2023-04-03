@@ -1,10 +1,10 @@
 # Spring Start Here
 
-| Chapter | Notes        |
+| Chapter | Note       |
 |---------|--------------|
-| 2       | Content Cell |
-| 3       | Content Cell |
-| 4       | Content Cell |
+| 2       | [The Spring Context: Defining Beans](https://github.com/jtrinh21/Spring-Start-Here/blob/main/Notes/Chapter%202_%20Defining%20Beans.pdf) |
+| 3       | [The Spring Context: Wiring Beans](https://github.com/jtrinh21/Spring-Start-Here/blob/main/Notes/Chapter%203_%20Wiring%20Beans.pdf) |
+| 4       | [The Spring Context: Using Abstractions](https://github.com/jtrinh21/Spring-Start-Here/blob/main/Notes/Chapter%204_%20Using%20Abstraction.pdf) |
 | 5       | Content Cell |
 | 6       | Content Cell |
 | 7       | Content Cell |
