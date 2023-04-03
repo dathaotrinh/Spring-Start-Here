@@ -1,5 +1,7 @@
 # Spring Start Here
 
+Livebook with discussion: https://livebook.manning.com/book/spring-start-here
+
 | Chapter | Note       |
 |---------|--------------|
 | 2       | [The Spring Context: Defining Beans](https://github.com/jtrinh21/Spring-Start-Here/blob/main/Notes/Chapter%202_%20Defining%20Beans.pdf) |
